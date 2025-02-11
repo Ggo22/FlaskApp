@@ -1,8 +1,11 @@
+from platform import node
+
+
 {
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "d1ac3a9d-22e4-4558-9558-5cffc689ce45",
    "metadata": {},
    "outputs": [],
